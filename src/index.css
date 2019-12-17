@@ -1,0 +1,55 @@
+.aventureros-text{
+  font-size:30px;
+  font-weight: bold; 
+  color: #002db3;
+}
+
+.aventureros-logo{
+  vertical-align: text-bottom;
+}
+.row-center{
+    text-align: center;
+}
+
+.col-center{
+  display: inline-block;
+}
+
+.title-clase{
+  display: block;
+  color:white;
+}
+
+.hormiguitas-label{
+  background-color: #b30000;
+}
+
+.corderito-label{
+  background-color: #33ccff;
+ }
+
+.castorcitos-label{
+  background-color: #2d862d;
+}
+
+.abejitas-label{
+  background-color: #ffcc00;
+}
+
+.rayitos-label{
+  background-color: #ff6600;
+}
+
+.manitas-label{
+  background-color: #660033;
+}
+
+.constructores-label{
+  background-color: #0086b3;
+}
+
+.checkbox-Names{
+  margin-left: 6px;
+  width: 30px;
+
+}
